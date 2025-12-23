@@ -2,7 +2,7 @@ using Comptime;
 
 namespace NatoAlphabet;
 
-public static class NatoConverter
+public static partial class NatoConverter
 {
     // Letter → NATO phonetic word
     [Comptime]
